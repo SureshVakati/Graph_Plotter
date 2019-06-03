@@ -1,1 +1,1 @@
-CANSpeed_Version=1.0.0
+CANSpeed_Version=1.00
